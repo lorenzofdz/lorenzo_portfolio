@@ -1,6 +1,6 @@
 # Lorenzo's Analytics Portfolio
 
-### 1. [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
+### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
 
 **Descripción del Proyecto:**  
 En este proyecto me enfoqué en el análisis del mercado de videojuegos con el objetivo de identificar patrones que determinan el éxito de los juegos en diferentes regiones y plataformas. A través del estudio de las preferencias de los usuarios, las ventas por región y el impacto de las clasificaciones ESRB, busqué proporcionar insights valiosos para desarrolladores y editores en la industria.
@@ -26,7 +26,7 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
 
 ---
 
-### 2. [Construcción de Web App para Visualización de Datos](https://github.com/lorenzofdz/used-car-data-visualization)
+### [Construcción de Web App para Visualización de Datos](https://github.com/lorenzofdz/used-car-data-visualization)
 
 **Descripción del Proyecto:**  
 Desarrollé una aplicación web con Streamlit, diseñada para facilitar la visualización de datos de vehículos usados. La aplicación permite a los usuarios visualizar de manera interactiva distintos aspectos del conjunto de datos, proporcionando una representación gráfica sobre la distribución y las relaciones entre diferentes variables, como el precio, el odómetro y otras características relevantes de los vehículos.
