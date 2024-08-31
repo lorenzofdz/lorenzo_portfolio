@@ -55,6 +55,8 @@ A continuación, presento algunas de las visualizaciones generadas durante el an
 
    Aquí se compara el rendimiento en ventas de tres juegos específicos en tres plataformas diferentes, mostrando cómo un mismo juego puede tener un éxito variable dependiendo de la plataforma.
 
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/lorenzofdz/video-game-market-analysis).**
+
 ---
 
 ### [Construcción de Web App para Visualización de Datos](https://github.com/lorenzofdz/used-car-data-visualization)
@@ -75,6 +77,8 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 - Plotly Express
 
 **Liga de la Web App:** [Acceder a la aplicación](https://proyecto-sprint-4-vlkw.onrender.com/)
+
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/lorenzofdz/used-car-data-visualization).**
 
 ---
 
