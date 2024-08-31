@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ![banner](https://github.com/user-attachments/assets/6dec9a08-cb53-447d-8bdf-64700cd86240)
 
 ### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
