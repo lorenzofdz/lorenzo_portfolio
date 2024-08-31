@@ -1,4 +1,4 @@
-# **Analista de Datos** Lorenzo Fernández
+<h1><strong>Analista de Datos</strong> Lorenzo Fernández</h1>
 
 ### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
 
