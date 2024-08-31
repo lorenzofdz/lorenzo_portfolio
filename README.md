@@ -2,6 +2,16 @@
 
 ![banner](https://github.com/user-attachments/assets/6dec9a08-cb53-447d-8bdf-64700cd86240)
 
+# Acerca de mí
+
+Cuento con un posgrado en Administración de Empresas (MBA) y estoy certificado en Análisis de Datos; dedicado a impulsar la toma de decisiones estratégicas mediante el análisis de datos, visualización y manejo de bases de datos con herramientas como Python, SQL y Tableau. Tengo experiencia práctica en la extracción de insights a partir de datos y la creación de dashboards. Además, cuento con una sólida base en resolución de problemas y comunicación, desarrollada en mi carrera previa en áreas comerciales y ventas. Estoy motivado por transformar datos en soluciones estratégicas que impulsen el crecimiento empresarial.
+
+[Descargar mi CV](https://github.com/user-attachments/files/16826343/GitHub_Lorenzo.Fernandez_CV.pdf)
+
+---
+
+### Proyectos
+
 ### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
 
 **Descripción del Proyecto:**  
@@ -67,3 +77,8 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 **Liga de la Web App:** [Acceder a la aplicación](https://proyecto-sprint-4-vlkw.onrender.com/)
 
 ---
+
+### Conéctate conmigo
+
+- **GitHub:** [https://github.com/lorenzofdz](https://github.com/lorenzofdz)
+- **LinkedIn:** [https://www.linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
