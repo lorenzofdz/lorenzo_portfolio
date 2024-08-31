@@ -10,7 +10,7 @@ Cuento con un posgrado en Administración de Empresas (MBA) y estoy certificado 
 
 ---
 
-### Proyectos
+## Proyectos
 
 ### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
 
@@ -78,7 +78,6 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 
 ---
 
-### Conéctate conmigo
-
-- **GitHub:** [https://github.com/lorenzofdz](https://github.com/lorenzofdz)
-- **LinkedIn:** [https://www.linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
+- **Envíame un correo:** [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com)
+- **Contáctame en LinkedIn:** [linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
+- **Explora mis proyectos en GitHub:** [github.com/lorenzofdz](https://github.com/lorenzofdz)
