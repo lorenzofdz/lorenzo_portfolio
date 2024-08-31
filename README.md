@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/9eeb62fc-3f70-44a1-9dae-2cf3687b462b)
+![banner](https://github.com/user-attachments/assets/6dec9a08-cb53-447d-8bdf-64700cd86240)
 
 ### [Análisis del Mercado de Videojuegos](https://github.com/lorenzofdz/video-game-market-analysis)
 
