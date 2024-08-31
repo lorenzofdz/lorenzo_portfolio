@@ -24,6 +24,25 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
 - NumPy
 - Matplotlib
 
+**Visualizaciones:**
+
+A continuación, presento algunas de las visualizaciones clave generadas durante el análisis del mercado de videojuegos:
+
+1. **Distribución de Ventas Globales por Género**  
+   ![Distribución de Ventas Globales por Género](https://github.com/user-attachments/assets/bd7df0c4-88e4-4fdf-8f60-17ee287fa48b)
+
+   Esta visualización muestra cómo se distribuyen las ventas globales de videojuegos según su género, destacando la popularidad del género de acción en comparación con otros.
+
+2. **Distribución Anual de Ventas por Plataforma**  
+   ![Distribución Anual de Ventas por Plataforma](https://github.com/user-attachments/assets/f35f4067-3c98-4104-a6b0-a78cb6e29d5c)
+
+   Este gráfico de líneas ilustra cómo las ventas de las principales plataformas de videojuegos han variado a lo largo del tiempo, permitiendo identificar las plataformas con mayor éxito en diferentes años.
+
+3. **Comparación de Ventas de Tres Juegos en PS3, X360 y Wii**  
+   ![Comparación de Ventas de Tres Juegos en PS3, X360 y Wii](https://github.com/user-attachments/assets/72a2e2b2-006c-4577-99b3-b64a61f40d9d)
+
+   Aquí se compara el rendimiento en ventas de tres juegos específicos en tres plataformas diferentes, mostrando cómo un mismo juego puede tener un éxito variable dependiendo de la plataforma.
+
 ---
 
 ### [Construcción de Web App para Visualización de Datos](https://github.com/lorenzofdz/used-car-data-visualization)
